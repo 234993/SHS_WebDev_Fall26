@@ -17,5 +17,19 @@ tr {
 th {
 	text-align: center;
 	color: #ffffff;
-	background-color: #003366;
+	background-color: #57b0c0;
+}
+
+ol {
+	color:darkcyan;
+	font-family:fantasy; 
+}
+
+ul {
+	color:blue;
+	font-family: fantasy;
+}
+h2, h1 {
+	color:#408948;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 }
